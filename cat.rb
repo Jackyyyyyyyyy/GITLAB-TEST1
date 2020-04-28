@@ -1,0 +1,3 @@
+class cat < Animal
+
+end
